@@ -1,0 +1,6 @@
+﻿  builder.cpp
+d:\work\pattern_of_programming\builder\builder\builder.cpp(54): warning C4018: '<': signed/unsigned mismatch
+d:\work\pattern_of_programming\builder\builder\builder.cpp(55): warning C4018: '<': signed/unsigned mismatch
+d:\work\pattern_of_programming\builder\builder\builder.cpp(56): warning C4018: '<': signed/unsigned mismatch
+  builder.vcxproj -> D:\work\pattern_of_programming\builder\Debug\builder.exe
+  builder.vcxproj -> D:\work\pattern_of_programming\builder\Debug\builder.pdb (Full PDB)
